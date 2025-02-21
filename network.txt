@@ -1,0 +1,2 @@
+AIM :Famiarisation of basic linux commands Basic Linux commands, familiarity with followingcommands/operations expected1. man2. Is, echo, read3. more, less, cat,4. cd, mkdir, pwd, find5. mv, cp, rm,tar6. wc, cut, paste7. head, tail, grep, expr8 chmod, chown9. Redirections & Piping10. useradd, usermod, userdel, passwd11. df,top, ps12 ssh, scp, ssh-keygen, ssh-copy-id
+https://cocalc.com/features/terminal
